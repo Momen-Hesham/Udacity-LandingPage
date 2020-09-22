@@ -18,7 +18,7 @@ body {
     color: #fff;
 }
 
-/* Hide The List Items on Small Screens To be Responsive*/
+/****** Change the NavBar Buttons on Small Screens To be Responsive*******/
 @media (max-width: 640px) {
 
    button{width:100%;}
