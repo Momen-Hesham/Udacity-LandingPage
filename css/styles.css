@@ -19,7 +19,7 @@ body {
 }
 
 /****** Change the NavBar Buttons on Small Screens To be Responsive*******/
-@media (max-width: 640px) {
+@media (max-width: 760px) {
 
    button{width:100%;}
 
